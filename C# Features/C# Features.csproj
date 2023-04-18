@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>C__Features</RootNamespace>
+
+    <!-- <StartupObject>Feature_01.Program</StartupObject> -->
+    <!-- <StartupObject>Feature_02.Program</StartupObject> -->
+    <!-- <StartupObject>Feature_03.Program</StartupObject> -->
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
