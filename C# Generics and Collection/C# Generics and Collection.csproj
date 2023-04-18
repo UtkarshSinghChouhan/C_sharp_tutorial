@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>C__Generics_and_Collection</RootNamespace>
+
+    <!-- <StartupObject>Generics_01.Program</StartupObject> -->
+    <!-- <StartupObject>Generics_02.Program</StartupObject> -->
+    <!-- <StartupObject>Generics_03.Program</StartupObject>
+    <StartupObject>Collections_01.Program</StartupObject> -->
+    <!-- <StartupObject>Collections_02.Program</StartupObject> -->
+    <StartupObject>Collections_03.Program</StartupObject>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

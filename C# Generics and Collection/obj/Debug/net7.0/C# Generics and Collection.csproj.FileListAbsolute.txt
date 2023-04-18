@@ -1,0 +1,15 @@
+C:\C# Projects\C# Generics and Collection\bin\Debug\net7.0\C# Generics and Collection.exe
+C:\C# Projects\C# Generics and Collection\bin\Debug\net7.0\C# Generics and Collection.deps.json
+C:\C# Projects\C# Generics and Collection\bin\Debug\net7.0\C# Generics and Collection.runtimeconfig.json
+C:\C# Projects\C# Generics and Collection\bin\Debug\net7.0\C# Generics and Collection.dll
+C:\C# Projects\C# Generics and Collection\bin\Debug\net7.0\C# Generics and Collection.pdb
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\C# Generics and Collection.csproj.AssemblyReference.cache
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\C# Generics and Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\C# Generics and Collection.AssemblyInfoInputs.cache
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\C# Generics and Collection.AssemblyInfo.cs
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\C# Generics and Collection.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\C# Generics and Collection.dll
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\refint\C# Generics and Collection.dll
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\C# Generics and Collection.pdb
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\C# Generics and Collection.genruntimeconfig.cache
+C:\C# Projects\C# Generics and Collection\obj\Debug\net7.0\ref\C# Generics and Collection.dll
