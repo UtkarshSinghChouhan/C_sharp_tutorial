@@ -1,0 +1,12 @@
+C:\C# Projects\C# Polymorphism\Classes\bin\Debug\net7.0\Classes.deps.json
+C:\C# Projects\C# Polymorphism\Classes\bin\Debug\net7.0\Classes.dll
+C:\C# Projects\C# Polymorphism\Classes\bin\Debug\net7.0\Classes.pdb
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\Classes.dll
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\refint\Classes.dll
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\Classes.pdb
+C:\C# Projects\C# Polymorphism\Classes\obj\Debug\net7.0\ref\Classes.dll
