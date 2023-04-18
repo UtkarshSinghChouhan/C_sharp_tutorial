@@ -1,0 +1,15 @@
+C:\C# Projects\C# Exception Handling\bin\Debug\net7.0\C# Exception Handling.exe
+C:\C# Projects\C# Exception Handling\bin\Debug\net7.0\C# Exception Handling.deps.json
+C:\C# Projects\C# Exception Handling\bin\Debug\net7.0\C# Exception Handling.runtimeconfig.json
+C:\C# Projects\C# Exception Handling\bin\Debug\net7.0\C# Exception Handling.dll
+C:\C# Projects\C# Exception Handling\bin\Debug\net7.0\C# Exception Handling.pdb
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\C# Exception Handling.csproj.AssemblyReference.cache
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\C# Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\C# Exception Handling.AssemblyInfoInputs.cache
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\C# Exception Handling.AssemblyInfo.cs
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\C# Exception Handling.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\C# Exception Handling.dll
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\refint\C# Exception Handling.dll
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\C# Exception Handling.pdb
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\C# Exception Handling.genruntimeconfig.cache
+C:\C# Projects\C# Exception Handling\obj\Debug\net7.0\ref\C# Exception Handling.dll
