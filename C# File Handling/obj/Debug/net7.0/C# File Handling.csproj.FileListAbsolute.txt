@@ -1,0 +1,15 @@
+C:\C# Projects\C# File Handling\bin\Debug\net7.0\C# File Handling.exe
+C:\C# Projects\C# File Handling\bin\Debug\net7.0\C# File Handling.deps.json
+C:\C# Projects\C# File Handling\bin\Debug\net7.0\C# File Handling.runtimeconfig.json
+C:\C# Projects\C# File Handling\bin\Debug\net7.0\C# File Handling.dll
+C:\C# Projects\C# File Handling\bin\Debug\net7.0\C# File Handling.pdb
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\C# File Handling.csproj.AssemblyReference.cache
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\C# File Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\C# File Handling.AssemblyInfoInputs.cache
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\C# File Handling.AssemblyInfo.cs
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\C# File Handling.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\C# File Handling.dll
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\refint\C# File Handling.dll
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\C# File Handling.pdb
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\C# File Handling.genruntimeconfig.cache
+C:\C# Projects\C# File Handling\obj\Debug\net7.0\ref\C# File Handling.dll
