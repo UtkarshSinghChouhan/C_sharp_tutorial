@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>C__Extention_methods</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+
+
+    <!-- <StartupObject>Extension_Method.Program</StartupObject> -->
+    <!-- <StartupObject>Extension_Method.Extension_Method_02</StartupObject> -->
+    <!-- <StartupObject>Var.Var</StartupObject> -->
+    <!-- <StartupObject>Object_Initializers.Program</StartupObject> -->
+    <StartupObject>Object_Initializer_and_Collection_Initalizer.Program</StartupObject>
+
+
+
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,30 @@
+C:\C# Projects\C# Extention methods\bin\Debug\net7.0\C# Extention methods.exe
+C:\C# Projects\C# Extention methods\bin\Debug\net7.0\C# Extention methods.deps.json
+C:\C# Projects\C# Extention methods\bin\Debug\net7.0\C# Extention methods.runtimeconfig.json
+C:\C# Projects\C# Extention methods\bin\Debug\net7.0\C# Extention methods.dll
+C:\C# Projects\C# Extention methods\bin\Debug\net7.0\C# Extention methods.pdb
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\C# Extention methods.csproj.AssemblyReference.cache
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\C# Extention methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\C# Extention methods.AssemblyInfoInputs.cache
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\C# Extention methods.AssemblyInfo.cs
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\C# Extention methods.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\C# Extention methods.dll
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\refint\C# Extention methods.dll
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\C# Extention methods.pdb
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\C# Extention methods.genruntimeconfig.cache
+C:\C# Projects\C# Extention methods\obj\Debug\net7.0\ref\C# Extention methods.dll
+C:\C# Projects\C# Programs\bin\Debug\net7.0\C# Extention methods.exe
+C:\C# Projects\C# Programs\bin\Debug\net7.0\C# Extention methods.deps.json
+C:\C# Projects\C# Programs\bin\Debug\net7.0\C# Extention methods.runtimeconfig.json
+C:\C# Projects\C# Programs\bin\Debug\net7.0\C# Extention methods.dll
+C:\C# Projects\C# Programs\bin\Debug\net7.0\C# Extention methods.pdb
+C:\C# Projects\C# Programs\obj\Debug\net7.0\C# Extention methods.csproj.AssemblyReference.cache
+C:\C# Projects\C# Programs\obj\Debug\net7.0\C# Extention methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# Programs\obj\Debug\net7.0\C# Extention methods.AssemblyInfoInputs.cache
+C:\C# Projects\C# Programs\obj\Debug\net7.0\C# Extention methods.AssemblyInfo.cs
+C:\C# Projects\C# Programs\obj\Debug\net7.0\C# Extention methods.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# Programs\obj\Debug\net7.0\C# Extention methods.dll
+C:\C# Projects\C# Programs\obj\Debug\net7.0\refint\C# Extention methods.dll
+C:\C# Projects\C# Programs\obj\Debug\net7.0\C# Extention methods.pdb
+C:\C# Projects\C# Programs\obj\Debug\net7.0\C# Extention methods.genruntimeconfig.cache
+C:\C# Projects\C# Programs\obj\Debug\net7.0\ref\C# Extention methods.dll
