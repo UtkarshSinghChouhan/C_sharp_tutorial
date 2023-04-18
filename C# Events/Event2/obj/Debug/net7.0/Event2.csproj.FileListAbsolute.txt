@@ -1,0 +1,15 @@
+C:\C# Projects\C# Events\Event2\bin\Debug\net7.0\Event2.exe
+C:\C# Projects\C# Events\Event2\bin\Debug\net7.0\Event2.deps.json
+C:\C# Projects\C# Events\Event2\bin\Debug\net7.0\Event2.runtimeconfig.json
+C:\C# Projects\C# Events\Event2\bin\Debug\net7.0\Event2.dll
+C:\C# Projects\C# Events\Event2\bin\Debug\net7.0\Event2.pdb
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\Event2.csproj.AssemblyReference.cache
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\Event2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\Event2.AssemblyInfoInputs.cache
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\Event2.AssemblyInfo.cs
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\Event2.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\Event2.dll
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\refint\Event2.dll
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\Event2.pdb
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\Event2.genruntimeconfig.cache
+C:\C# Projects\C# Events\Event2\obj\Debug\net7.0\ref\Event2.dll
