@@ -1,0 +1,15 @@
+C:\C# Projects\C# LINQ Complete\bin\Debug\net7.0\C# LINQ Complete.exe
+C:\C# Projects\C# LINQ Complete\bin\Debug\net7.0\C# LINQ Complete.deps.json
+C:\C# Projects\C# LINQ Complete\bin\Debug\net7.0\C# LINQ Complete.runtimeconfig.json
+C:\C# Projects\C# LINQ Complete\bin\Debug\net7.0\C# LINQ Complete.dll
+C:\C# Projects\C# LINQ Complete\bin\Debug\net7.0\C# LINQ Complete.pdb
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\C# LINQ Complete.csproj.AssemblyReference.cache
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\C# LINQ Complete.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\C# LINQ Complete.AssemblyInfoInputs.cache
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\C# LINQ Complete.AssemblyInfo.cs
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\C# LINQ Complete.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\C# LINQ Complete.dll
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\refint\C# LINQ Complete.dll
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\C# LINQ Complete.pdb
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\C# LINQ Complete.genruntimeconfig.cache
+C:\C# Projects\C# LINQ Complete\obj\Debug\net7.0\ref\C# LINQ Complete.dll

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>C__LINQ_Complete</RootNamespace>
+
+    <!-- <StartupObject>DifferentWaysToWriteQuery.QuerySyntaxes</StartupObject> -->
+    <!-- <StartupObject>Operators_select.Program</StartupObject> -->
+    <!-- <StartupObject>Operators_select_02.Program</StartupObject> -->
+    <!-- <StartupObject>Operators_Where.Program</StartupObject> -->
+    <!-- <StartupObject>Operators_OrderBy.Program</StartupObject> -->
+    <!-- <StartupObject>Operators_All.Program</StartupObject> -->
+    <!-- <StartupObject>Operators_All_02.Program</StartupObject> -->
+    <!-- <StartupObject>Operators_Any.Program</StartupObject> -->
+    <StartupObject>Operators_Any_02.Program</StartupObject>
+    <StartupObject>Operators_Contains.Program</StartupObject>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
